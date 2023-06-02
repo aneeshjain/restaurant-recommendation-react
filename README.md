@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Ravenous: Restaurant Recommendations Near You
+
+This React based web application uses the Yelp API to recommend restaurants near you.
+
+You can search using keywords and locations and also filter Top Rated, Most Reviewed and Best Matching restaurants.
+
+Please obtain your own Yelp API Key and replace it in the yelpAPI.js file to make this project work.
+
+You may also need to use this Proxy server to avoid CORS issues: https://cors-anywhere.herokuapp.com/corsdemo
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
