@@ -4,9 +4,13 @@ This React based web application uses the Yelp API to recommend restaurants near
 
 You can search using keywords and locations and also filter Top Rated, Most Reviewed and Best Matching restaurants.
 
-Please obtain your own Yelp API Key and replace it in the yelpAPI.js file to make this project work.
+Please obtain your own Yelp API Key and replace it in the `yelpAPI.js` file to make this project work.
 
 You may also need to use this Proxy server to avoid CORS issues: https://cors-anywhere.herokuapp.com/corsdemo
+
+
+![Screen_Recording_2023-06-01_at_8_04_35_PM_AdobeExpress](https://github.com/aneeshjain/restaurant-recommendation-react/assets/34747083/259ecbd7-d840-47b7-8519-7874185cc602)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
