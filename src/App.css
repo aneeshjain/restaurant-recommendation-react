@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@500&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.nav-bar {
+  height: 60px;
+  background-color: #F2BC1B;
+  font-size: 50px;
+  padding-bottom: 10px;
+  font-weight: 500;
+  color: white;
+  font-family: Geologica;
 }
